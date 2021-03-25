@@ -1,4 +1,4 @@
-[# Free Code Camp Build a Tribute Page Project](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page)
+# [Free Code Camp Build a Tribute Page Project](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page)
 **Objective:** Build a webpage that is functionally similar to this: https://codepen.io/freeCodeCamp/full/zNqgVx.
 
 Fulfill the below user stories and get all of the tests to pass. Give it your own personal style.
