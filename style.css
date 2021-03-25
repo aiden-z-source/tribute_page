@@ -98,8 +98,5 @@ ul {
   font-family: monospace;
   font-size: 11px;
   font-weight: 400;
-  position: absolute;
-  right: -150px;
-  width: 200px;
-  height: 120px;
+  float: right;
 }
